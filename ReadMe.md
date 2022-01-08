@@ -4,3 +4,7 @@ Página de captura
 
 Desenvolvida utilizando HTML5 e CSS3
 
+Visualize no link abaixo:
+
+https://ja-lourenco.github.io/PaginaDeCaptura/
+
